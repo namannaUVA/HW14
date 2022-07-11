@@ -7,4 +7,4 @@ setup(name='bookloverPackage',
       author='Nikita Amanna',
       author_email='vwr7bc@virginia.edu',
       license='MIT',
-      packages=['HW14'])
+      packages=['bookloverPackage'])
